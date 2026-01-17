@@ -1,0 +1,7 @@
+{
+  "name": "NCERT AI Tutor",
+  "description": "An AI-powered home teacher for Indian students (Grades 6-12), focused on rigorous concept clarity, active recall, and exam preparation without visual distractions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
